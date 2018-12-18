@@ -43,9 +43,12 @@ h1:before{
 h1.txt-by{
 	z-index: 2;
 	font-size: 30px;
-	top: calc(50% - 55px)
+	top: calc(50% - 55px);
 }
 
 h1.txt-ne{
-	top: calc(50% + 5px)
+	top: calc(50% + 5px);
+	text-align: center;
+    line-height: 1;
+    margin-top: 15px;
 }
